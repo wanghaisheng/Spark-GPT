@@ -1,3 +1,6 @@
+增加飞书豆包
+增加飞书写作
+
 # Nonebot Plugin SparkGPT
 
 ## 详细文档 -> [Canxin Site](https://canxin121.github.io/p/sparkgpt/)
